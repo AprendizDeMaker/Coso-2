@@ -19,6 +19,8 @@ Editor Html
 
 [BlueGriffon Editor Html](https://www.youtube.com/watch?v=FCo168f4O5I)
 
+Ejemplo:
+[otro dominio mio con html propio usando un gist traductor google](https://aprendizdemaker.github.io/coso/)
 
 
 
