@@ -13,6 +13,8 @@ Proceso completo de Contribuir con un proyecto.
 
 [El uso de Git para gestionar un sitio web](http://toroid.org/git-website-howto)
 
+[Curso Git - Ramas y Fusiones](https://www.youtube.com/watch?v=-UQulO_0prM)
+
 Editor Html
 
 [BlueGriffon Editor Html](https://www.youtube.com/watch?v=FCo168f4O5I)
