@@ -19,8 +19,12 @@ Editor Html
 
 [BlueGriffon Editor Html](https://www.youtube.com/watch?v=FCo168f4O5I)
 
-Ejemplo:
+Multiples idiomas:
+
 [otro dominio mio con html propio usando un gist traductor google](https://aprendizdemaker.github.io/coso/)
+[codigo htm original ](<script src="https://gist.github.com/frosas/3029203.js"></script>)
+
+[Gist Languaje html](https://gist.github.com/frosas/3029203#file-l-espolimetre-html)
 
 
 
