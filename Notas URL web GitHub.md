@@ -25,7 +25,7 @@ Multiples idiomas:
 
 [Gist Languaje html](https://gist.github.com/frosas/3029203#file-l-espolimetre-html)
 
-[README.md]()
+[README.md](https://github.com/AprendizDeMaker/Coso-2/blob/master/README.md)
 
 
 
