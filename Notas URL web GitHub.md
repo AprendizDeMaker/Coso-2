@@ -9,6 +9,10 @@ Proceso completo de Contribuir con un proyecto.
 
 [Utilizar varios repositorios remotos con Git](http://jonsegador.com/2014/06/utilizar-varios-repositorios-remotos-con-git/)
 
+[CÓMO USAR GIT PARA HACER DEPLOY DE NUESTRO WEBSITE](http://www.jaimeolmo.com/2015/02/como-usar-git-para-hacer-deploy-de-nuestro-website/)
+
+[El uso de Git para gestionar un sitio web](http://toroid.org/git-website-howto)
+
 Editor Html
 
 [BlueGriffon Editor Html](https://www.youtube.com/watch?v=FCo168f4O5I)
