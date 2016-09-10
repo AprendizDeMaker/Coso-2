@@ -13,8 +13,6 @@ Usar Git Hub para publicar la documentacion con multilenguaje.
 [Wiki Github de este Repositorio](https://github.com/AprendizDeMaker/Prusa-I3-Hephestos---Maker/wiki)
 
 
-[Notas URL web GitHub.md](https://github.com/AprendizDeMaker/Coso-2/blob/master/Notas%20URL%20web%20GitHub.md)
-
 ___________________________________________________________________________________________________________________________
 [Notas URL web GitHub.md](https://github.com/AprendizDeMaker/Coso-2/blob/master/Notas%20URL%20web%20GitHub.md)
 
