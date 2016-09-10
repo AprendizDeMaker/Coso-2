@@ -9,6 +9,10 @@ Proceso completo de Contribuir con un proyecto.
 
 [Utilizar varios repositorios remotos con Git](http://jonsegador.com/2014/06/utilizar-varios-repositorios-remotos-con-git/)
 
+Editor Html
+
+[BlueGriffon Editor Html](https://www.youtube.com/watch?v=FCo168f4O5I)
+
 
 
 
