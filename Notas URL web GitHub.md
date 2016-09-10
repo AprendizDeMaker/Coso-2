@@ -22,8 +22,10 @@ Editor Html
 Multiples idiomas:
 
 [otro dominio mio con html propio usando un gist traductor google](https://aprendizdemaker.github.io/coso/)
+
 [Gist Languaje html](https://gist.github.com/frosas/3029203#file-l-espolimetre-html)
 
+[README.md]()
 
 
 
