@@ -13,6 +13,10 @@ Usar Git Hub para publicar la documentacion con multilenguaje.
 [Wiki Github de este Repositorio](https://github.com/AprendizDeMaker/Prusa-I3-Hephestos---Maker/wiki)
 
 ___________________________________________________________________________________________________________________________
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=StTqXEQ2l-Y?t=35s
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 <iframe width=”640″ height=”360″ src=”//www.youtube.com/embed/RAGnHADKIIM?rel=0&showinfo=0&controls=1&autoplay=1&start=120” frameborder=”0″ allowfullscreen></iframe>
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 ___________________________________________________________________________________________________________________________
