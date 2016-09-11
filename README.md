@@ -24,6 +24,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 data="http://www.youtube.com/embed/XGSy3_Czz8k">
 </object>
 
+<video controls="true">
+    <source src="www.youtube.com/watch?v=3bGNuRtlqAQ" type="video/mp4" />
+</video>
 ___________________________________________________________________________________________________________________________
 [Notas URL web GitHub.md](https://github.com/AprendizDeMaker/Coso-2/blob/master/Notas%20URL%20web%20GitHub.md)
 
