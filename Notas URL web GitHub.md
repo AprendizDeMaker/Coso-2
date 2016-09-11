@@ -24,7 +24,6 @@ Multiples idiomas:
 [otro dominio mio con html propio usando un gist traductor google](https://aprendizdemaker.github.io/coso/)
 
 [Gist Languaje html](https://gist.github.com/frosas/3029203#file-l-espolimetre-html)
-
 ___________________________________________________________________________________________________________________________
 <iframe width=”640″ height=”360″ src=”//www.youtube.com/embed/RAGnHADKIIM?rel=0&showinfo=0&controls=1&autoplay=1&start=120” frameborder=”0″ allowfullscreen></iframe>
 ___________________________________________________________________________________________________________________________
