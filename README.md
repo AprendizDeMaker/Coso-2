@@ -14,6 +14,7 @@ Usar Git Hub para publicar la documentacion con multilenguaje.
 
 ___________________________________________________________________________________________________________________________
 <iframe width=”640″ height=”360″ src=”//www.youtube.com/embed/RAGnHADKIIM?rel=0&showinfo=0&controls=1&autoplay=1&start=120” frameborder=”0″ allowfullscreen></iframe>
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 ___________________________________________________________________________________________________________________________
 [Notas URL web GitHub.md](https://github.com/AprendizDeMaker/Coso-2/blob/master/Notas%20URL%20web%20GitHub.md)
 
